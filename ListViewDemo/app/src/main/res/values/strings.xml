@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ListViewDemo</string>
+    <string name="alert_title">Wearning!</string>
+    <string name="message">Do you want to exit</string>
+    <string-array name="country_names">
+
+        <item>Bangladesh</item>
+        <item>USA</item>
+        <item>UK</item>
+        <item>Finland</item>
+        <item>Turky</item>
+        <item>Germany</item>
+        <item>England</item>
+        <item>Switzerland</item>
+        <item>Australia</item>
+
+    </string-array>
+</resources>

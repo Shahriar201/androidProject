@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CountryProfileDemo</string>
+    <string name="bangladesh_text">Bangladesh</string>
+    <string name="india_text">India</string>
+    <string name="pakistan_text">Pakistan</string>
+    <string name="bd_desc">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isnt anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+    </string>
+
+    <string name="india_desc">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    </string>
+
+    <string name="paksitan_desc">On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire
+    </string>
+    <string name="alert_title">Alert!</string>
+    <string name="alert_desc">Do you want to exit</string>
+</resources>
