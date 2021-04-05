@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GuessingNumber</string>
+    <string name="edit_Text">Enter you guess number between 1-5</string>
+    <string name="button_text">Check</string>
+    <string name="won_text">Congratulations! You have own</string>
+</resources>
