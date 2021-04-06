@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GirdViewDemo</string>
+    <string-array name="country_names">
+        <item>Afghanistan</item>
+        <item>Bangladesh</item>
+        <item>Baharain</item>
+        <item>Nepal</item>
+        <item>Botan</item>
+        <item>Canada</item>
+        <item>America</item>
+        <item>London</item>
+        <item>Australia</item>
+        <item>Denmark</item>
+        <item>England</item>
+
+    </string-array>
+</resources>
