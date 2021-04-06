@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CustomAdapter</string>
+    <string-array name="country_names">
+        <item>Bangladehs</item>
+        <item>India</item>
+<!--        <item>Pakistan</item>-->
+<!--        <item>Canada</item>-->
+<!--        <item>Denmark</item>-->
+<!--        <item>Srelanka</item>-->
+<!--        <item>Pakistan</item>-->
+<!--        <item>Butan</item>-->
+<!--        <item>Nepal</item>-->
+<!--        <item>Singapur</item>-->
+<!--        <item>Switzerland</item>-->
+<!--        <item>Malesiya</item>-->
+
+    </string-array>
+</resources>
